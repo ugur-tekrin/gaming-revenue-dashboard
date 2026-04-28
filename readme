@@ -1,0 +1,44 @@
+#Gaming Subscription Analytics#
+
+A subscription revenue analytics project built with SQL and Tableau to analyze recurring revenue growth, paid user behavior, churn dynamics and revenue recovery patterns in a gaming environment.
+
+##Project Overview##
+
+This project focuses on analyzing subscription-based gaming revenue data using business intelligence and product analytics concepts.
+
+##The dashboard was designed to monitor:##
+
+Monthly Recurring Revenue (MRR)
+Paid User Growth
+ARPPU (Average Revenue Per Paid User)
+Churn & Revenue Loss
+Revenue Recovery
+Expansion vs Contraction Revenue
+
+The goal of the project is to better understand revenue drivers, retention risks and user monetization behavior.
+
+##Dashboard Preview##
+
+##Key Business Metrics##
+Monthly Recurring Revenue (MRR)
+Paid Users
+ARPPU
+New MRR
+Churn Rate
+Revenue Churn Rate
+Churned Revenue
+Expansion MRR
+Contraction MRR
+Revenue Recovery
+Dashboard Features
+Interactive Tableau dashboard
+Dynamic filtering options
+Monthly revenue trend analysis
+User churn analysis
+Revenue recovery tracking
+Expansion vs contraction revenue comparison
+Tools & Technologies
+SQL
+PostgreSQL
+Tableau Public
+DBeaver
