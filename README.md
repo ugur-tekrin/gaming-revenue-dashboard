@@ -19,7 +19,7 @@ The goal of the project is to better understand revenue drivers, retention risks
 
 ## Dashboard Preview
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](assets/preview.png)
 
 ## Key Business Metrics
 
