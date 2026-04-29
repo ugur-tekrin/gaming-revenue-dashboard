@@ -17,9 +17,6 @@ The dashboard was designed to monitor:
 
 The goal of the project is to better understand revenue drivers, retention risks and user monetization behavior.
 
-## Dashboard Preview
-
-![Dashboard Preview](assets/preview.png)
 
 ## Key Business Metrics
 
